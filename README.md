@@ -1,6 +1,6 @@
 # Write or Die - AI-Powered Writing Productivity Tool
 
-![Write or Die Banner](https://i.imgur.com/your-banner-image.png)  <!-- Replace with a real banner image -->
+![Write or Die Banner](images/write-or-die-banner.png)
 
 **Write or Die** is a powerful productivity tool designed to help writers, students, and professionals overcome writer's block and maintain writing momentum. It offers a distraction-free environment with timed writing sessions, configurable warning systems, and optional AI-powered assistance for outline generation and text refinement.
 
