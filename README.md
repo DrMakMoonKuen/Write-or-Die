@@ -6,7 +6,7 @@ A modern, AI-powered writing productivity application that helps you overcome wr
 
 ## 🚀 Live Demo
 
-**[▶️ Try Write or Die Now](https://DrMakMoonKuen.github.io/write-or-die/)**
+**[▶️ Try Write or Die Now](https://write2live.puli-consulting.com)**
 
 ## ✨ Features
 
