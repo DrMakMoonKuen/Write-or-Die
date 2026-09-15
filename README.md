@@ -6,7 +6,7 @@ A modern, AI-powered writing productivity application that helps you overcome wr
 
 ## 🚀 Live Demo
 
-**[▶️ Try Write or Die Now](https://your-github-username.github.io/write-or-die/)**
+**[▶️ Try Write or Die Now](https://DrMakMoonKuen.github.io/write-or-die/)**
 
 ## ✨ Features
 
@@ -223,7 +223,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 Having issues? We're here to help:
 
-1. Check [Issues](https://github.com/yourusername/write-or-die/issues) for known problems
+1. Check [Issues](https://github.com/DrMakMoonKuen/write-or-die/issues) for known problems
 2. Create a new issue with:
    - Detailed description
    - Steps to reproduce
@@ -243,7 +243,7 @@ Having issues? We're here to help:
 
 **Ready to transform your writing process?** 
 
-**[🚀 Start Writing Now](https://your-github-username.github.io/write-or-die/)**
+**[🚀 Start Writing Now](https://write2live.puli-consulting.com)**
 
 *Write faster. Write better. Write consistently. Write privately.*
 
